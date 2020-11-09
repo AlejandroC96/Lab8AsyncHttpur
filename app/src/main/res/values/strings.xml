@@ -1,0 +1,13 @@
+<resources>
+<string name="app_name">Lab8AsyncHttp</string>
+<string name="titulo1">Buscar Libro</string>
+<string name="titulo2">Detalle Libro</string>
+<string name="instrucciones">Ingrese el Nombre del Libro: </string>
+<string name="textoBoton">Buscar</string>
+<string name="resultados">Libros Encontrados:</string>
+<string name="inputHint">Nombre del Libro</string>
+<string name="textoadicional">Datos adicionales:</string>
+<string name="textovacio">Vacio</string>
+<string name="descripcion">Descripcion:</string>
+
+</resources>
